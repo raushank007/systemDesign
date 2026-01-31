@@ -1,0 +1,17 @@
+# Ignore all compiled class files
+*.class
+
+# Ignore packaged JARs/WARs
+*.jar
+*.war
+
+# Ignore build directories (Maven/Gradle)
+target/
+build/
+
+# Ignore IDE specific files
+.settings/
+.project
+.classpath
+.idea/
+*.iml
